@@ -1,0 +1,17 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate Contribution Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: 'muzz05'
+          gif_out_path: './output/github-contribution-grid-snake.gif'
