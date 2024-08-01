@@ -42,7 +42,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/muzz05/muzz05/output/github-contribution-grid-snake.gif" />
+  <img alt="snake eating my contributions" src="https://github.com/muzz05/muzz05/blob/output/github-contribution-grid-snake.gif" />
   
   <br/><br/><br/>
 </div>
