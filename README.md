@@ -5,14 +5,6 @@
 </h1>
 
 <h3 align="center">A passionate software developer and Student from Pakistan</h3>
-
-<br/>
-
-<div align="center">
- 
- 🌱 I’m currently learning **NodeJs, SQL, C#**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:muzamilsahab05@gmail.com">
@@ -28,28 +20,26 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
+    <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,c#" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,mysql" />
-    <br>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs" />
 </div>
 
-<br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <h1>🐍 My Contributions 🐍</h1>
   <img alt="snake eating my contributions" src="https://github.com/muzz05/muzz05/blob/output/github-contribution-grid-snake.gif" />
-  
-  <br/><br/><br/>
 </div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h1 align="center">⚡ Stats ⚡</h1>
 <br>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=muzz05&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
