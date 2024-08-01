@@ -42,8 +42,10 @@
 <h1 align="center">⚡ Stats ⚡</h1>
 <br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=muzz05&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzz05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/zenburn/0-profile-details.svg" height="180" alt="languages graph"  />
+    <br/>
+  <img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/zenburn/3-stats.svg" height="180" alt="stats graph"  />
+  <img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/zenburn/1-repos-per-language.svg" height="180" alt="languages graph"  />
 </div>
 
 
