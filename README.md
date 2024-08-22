@@ -28,6 +28,8 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,mysql" />
     <br/>
     <img src="https://skillicons.dev/icons?i=cpp,c,cs" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=dart,flutter"/>
 </div>
 
 <hr/>
