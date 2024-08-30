@@ -44,10 +44,10 @@
 <h1 align="center">⚡ Stats ⚡</h1>
 <br>
 <div align=center>
-<img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/zenburn/0-profile-details.svg" height="180" alt="languages graph"  />
+<img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg" height="180" alt="languages graph"  />
     <br/>
-  <img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/zenburn/3-stats.svg" height="180" alt="stats graph"  />
-  <img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/zenburn/1-repos-per-language.svg" height="180" alt="languages graph"  />
+  <img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/ayu_mirage/3-stats.svg" height="180" alt="stats graph"  />
+  <img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg" height="180" alt="languages graph"  />
 </div>
 
 
