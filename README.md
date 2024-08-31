@@ -44,10 +44,10 @@
 <h1 align="center">⚡ Stats ⚡</h1>
 <br>
 <div align=center>
-<img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg" height="180" alt="languages graph"  />
+<img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/noctis_minimus/0-profile-details.svg" height="180" alt="languages graph"  />
     <br/>
-  <img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/ayu_mirage/3-stats.svg" height="180" alt="stats graph"  />
-  <img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg" height="180" alt="languages graph"  />
+  <img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/noctis_minimus/3-stats.svg" height="180" alt="stats graph"  />
+  <img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg" height="180" alt="languages graph"  />
 </div>
 
 
@@ -55,6 +55,6 @@
 
 <hr/>
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muzz05&theme=github-dark-dimmed&hide_border=true&v=1" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muzz05&theme=noctis_minimus&hide_border=true&v=1" alt="GitHub Streak" /></a>
 </div>
 <br/>
