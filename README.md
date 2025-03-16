@@ -54,6 +54,6 @@
 
 <hr/>
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="http://streak-stats.demolab.com?user=muzz05&theme=noctis_minimus&hide_border=true&v=1" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="http://streak-stats.demolab.com?user=muzz05&theme=noctis_minimus&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 <br/>
