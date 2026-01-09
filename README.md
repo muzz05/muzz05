@@ -1,27 +1,34 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muzz05" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muzzammil+Ahmed!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muzzammil+Ahmed!;" />
 </h1>
 
 <h3 align="center">A passionate Software Developer and student from Pakistan</h3>
- 
-<div align="center"> 
-  <a href="mailto:muzamilsahab05@gmail.com">
+
+<!-- Social badges centered using HTML -->
+<div align="center">
+  <a href="mailto:muzamilsahab05@gmail.com" style="display:inline-block;margin:0 5px;">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/muzzammil-ahmed-a69255285" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+
+  <a href="https://www.linkedin.com/in/muzzammil-ahmed-a69255285" target="_blank" style="display:inline-block;margin:0 5px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Muzz005/" target="_blank">
-     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank" />
+
+  <a href="https://leetcode.com/u/Muzz005/" target="_blank" style="display:inline-block;margin:0 5px;">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  </a>
+
+  <a href="https://muzzammil-dev-portfolio.netlify.app/" target="_blank" style="display:inline-block;margin:0 5px;">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
-    <br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
     <br/>
@@ -42,21 +49,16 @@
 <hr/>
 
 <h1 align="center">⚡ Stats ⚡</h1>
-<br>
+
 <div align="center">
-  <img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/noctis_minimus/0-profile-details.svg" height="180" alt="languages graph" style="display:inline-block;" />
-  <img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg" height="180" alt="languages graph" style="display:inline-block;" />
+  <img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/noctis_minimus/0-profile-details.svg" height="180" style="display:inline-block;" />
+  <img src="https://github.com/muzz05/muzz05/blob/main/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg" height="180" style="display:inline-block;" />
 </div>
 
-
-
-<br/>
-
 <hr/>
+
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://raw.githubusercontent.com/muzz05/muzz05/main/assets/streak-stats.svg" alt="GitHub Streak" />
   </a>
 </div>
-
-<br/>
